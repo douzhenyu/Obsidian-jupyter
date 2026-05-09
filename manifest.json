@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-jupyter",
+  "name": "Obsidian Jupyter",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Jupyter-style code execution in Obsidian. Write and run Python code blocks with persistent kernels.",
+  "author": "",
+  "isDesktopOnly": true
+}

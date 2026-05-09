@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-jupyter",
+  "version": "1.0.0",
+  "description": "Jupyter-style code execution in Obsidian. Write and run Python code blocks with persistent kernels.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "builtin-modules": "^5.0.0",
+    "esbuild": "^0.24.0",
+    "obsidian": "^1.7.0",
+    "typescript": "^5.5.0",
+    "tslib": "^2.6.0"
+  }
+}
