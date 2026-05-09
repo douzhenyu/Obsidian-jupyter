@@ -277,4 +277,4 @@ obsidian-jupyter/
 
 ## 📄 License
 
-MIT © Your Name
+MIT © douzhenyu
